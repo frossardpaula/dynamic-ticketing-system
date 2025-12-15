@@ -41,11 +41,11 @@ The scenario assumes an event initially offering 500 seats, with the ability to 
 1. Clone the repository:
    ```bash
    git clone https://github.com/frossardpaula/dynamic-ticketing-system.git
-```
+   ```
 2. Open the Jupyter notebook:
-  ```bash
+  ```text
   jupyter notebook CMPT2021_Paula_Frossard_Ticketing_System.ipynb
-```
+   ```
 3. Run the notebook cells and use the interactive menu to:
 
 - Book seats

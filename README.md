@@ -2,7 +2,7 @@
 
 A Python-based dynamic ticketing system designed to manage seat bookings, cancellations, priority-based waitlists, and real-time seating capacity expansion using core data structures.
 
----
+
 
 ## Project Overview
 
@@ -12,7 +12,7 @@ The system was designed with a strong focus on **data structures and algorithmic
 
 The scenario assumes an event initially offering 500 seats, with the ability to dynamically increase capacity when demand exceeds availability.
 
----
+
 
 ## Key Features
 
@@ -24,7 +24,7 @@ The scenario assumes an event initially offering 500 seats, with the ability to 
 - Dynamic seating capacity expansion  
 - Menu-based interactive interface for testing and demonstration  
 
----
+
 
 ## Data Structures & Concepts Used
 
@@ -34,7 +34,7 @@ The scenario assumes an event initially offering 500 seats, with the ability to 
 - **Object-Oriented Programming** — modular system design  
 - **Algorithmic Thinking** — efficient reassignment and state handling  
 
----
+
 
 ## How to Run the Project
 
@@ -54,7 +54,7 @@ The scenario assumes an event initially offering 500 seats, with the ability to 
 - Increase seating capacity
 - No external libraries are required beyond standard Python.
 
----
+
 
 ## Repository Contents
 
@@ -67,7 +67,7 @@ The scenario assumes an event initially offering 500 seats, with the ability to 
 - **README.md**  
   Project overview and usage instructions.
 
----
+
 
 ## Notes & Future Improvements
 
@@ -80,7 +80,7 @@ Potential extensions discussed for this system include:
 - Unit testing for automated validation  
 - Alternative seat labeling to support unlimited capacity growth  
 
----
+
 
 ## License
 
